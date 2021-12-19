@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My  Money</string>
+    <string name="didn_t_get_code_resend">Didn\'t get code?<b>Resend</b></string>
+</resources>
